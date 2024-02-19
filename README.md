@@ -10,7 +10,7 @@ A daily vacation budget calculator to see how much money the user had available 
 4. Write a second function to use the information collected, using the toFixed method to round the number to cents.
 <br />
 
-<img width="673" alt="vacation-budget-calculator" src="">
+<img width="673" alt="vacation-budget-calculator" src="https://github.com/iVGeek/vacation-budget-calculator/blob/main/img/suitcase.jpg">
 
 ## Launch
 
